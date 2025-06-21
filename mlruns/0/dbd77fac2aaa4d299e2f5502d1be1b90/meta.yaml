@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vscode/DL_PROJECT/DL_PROJECT/mlruns/0/dbd77fac2aaa4d299e2f5502d1be1b90/artifacts
+end_time: 1750515049231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbd77fac2aaa4d299e2f5502d1be1b90
+run_name: sedate-finch-351
+run_uuid: dbd77fac2aaa4d299e2f5502d1be1b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750515033342
+status: 3
+tags: []
+user_id: prajw
